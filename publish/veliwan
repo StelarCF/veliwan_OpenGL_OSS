@@ -1,0 +1,7 @@
+#!/bin/sh
+
+if [ $1 = "--debug" ]; then
+	optirun ./_velexec_debug $@ --res 1920x1080 --fullscreen --debuglevel 8
+else
+	optirun ./_velexec $@
+fi

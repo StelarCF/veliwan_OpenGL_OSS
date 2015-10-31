@@ -1,0 +1,5 @@
+#glob syntax
+syntax:glob
+
+build/*
+publish/*

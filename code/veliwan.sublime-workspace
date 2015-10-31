@@ -1,0 +1,1632 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curre",
+				"current_log_level"
+			],
+			[
+				"draw",
+				"drawHighlight"
+			],
+			[
+				"high",
+				"highlight_inputter"
+			],
+			[
+				"clea",
+				"clearDepthBuffer"
+			],
+			[
+				"GLF",
+				"GL_FRAMEBUFFER"
+			],
+			[
+				"clear",
+				"clearBuffer"
+			],
+			[
+				"intro",
+				"introduce_fb3"
+			],
+			[
+				"dar",
+				"dark_inputter"
+			],
+			[
+				"send",
+				"send_tc"
+			],
+			[
+				"dark",
+				"dark_color"
+			],
+			[
+				"hi",
+				"highlight_inputter"
+			],
+			[
+				"texture",
+				"textureOverride"
+			],
+			[
+				"micro",
+				"micros_get"
+			],
+			[
+				"mic",
+				"micros_diff"
+			],
+			[
+				"mill",
+				"millis_get"
+			],
+			[
+				"mi",
+				"millis_diff"
+			],
+			[
+				"mil",
+				"millis_get"
+			],
+			[
+				"GL_TEXTURE",
+				"GL_TEXTURE_2D"
+			],
+			[
+				"advg",
+				"advgetf"
+			],
+			[
+				"adv",
+				"advgets"
+			],
+			[
+				"load",
+				"loadedMaterial"
+			],
+			[
+				"bum",
+				"bumpTex"
+			],
+			[
+				"tra",
+				"transparentTex"
+			],
+			[
+				"Re",
+				"RenderMaterial"
+			],
+			[
+				"rot",
+				"rotate"
+			],
+			[
+				"triangle",
+				"trianglenr"
+			],
+			[
+				"triang",
+				"trianglenr"
+			],
+			[
+				"reforme",
+				"reformer_head_of_religion"
+			],
+			[
+				"impact",
+				"impact_t"
+			],
+			[
+				"comp",
+				"computeAABBCollision"
+			],
+			[
+				"tria",
+				"trianglenr"
+			],
+			[
+				"wher",
+				"whereiam"
+			],
+			[
+				"stat",
+				"stats_scr"
+			],
+			[
+				"dest",
+				"destry_obj_scr"
+			],
+			[
+				"upda",
+				"update_obj_scr"
+			],
+			[
+				"obj",
+				"obj_scr"
+			],
+			[
+				"re",
+				"resized_last_frame"
+			],
+			[
+				"destry",
+				"destry_stats_scr"
+			],
+			[
+				"debu",
+				"debugger_globals"
+			],
+			[
+				"debugg",
+				"debugger_globals"
+			],
+			[
+				"cn",
+				"collision"
+			],
+			[
+				"checke",
+				"checkerboard"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "core/core/GameLogic.h",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "core/render/GhostCamera.cpp",
+			"settings":
+			{
+				"buffer_size": 3982,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/stelarcf/Probleme Info/derdelus/7-derdelus.in",
+			"settings":
+			{
+				"buffer_size": 309330,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/stelarcf/Probleme Info/derdelus/6-derdelus.in",
+			"settings":
+			{
+				"buffer_size": 297740,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/stelarcf/Probleme Info/derdelus/8-derdelus.in",
+			"settings":
+			{
+				"buffer_size": 350298,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "core/render/RenderFactory.h",
+			"settings":
+			{
+				"buffer_size": 542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "core/core/LogicFunction.h",
+			"settings":
+			{
+				"buffer_size": 86,
+				"line_ending": "Unix",
+				"name": "LogicFunction.h"
+			}
+		},
+		{
+			"file": "core/core/GameCore.h",
+			"settings":
+			{
+				"buffer_size": 1154,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/C++/C++ Single File.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 140.0,
+		"last_filter": "sidebar",
+		"selected_items":
+		[
+			[
+				"sidebar",
+				"View: Toggle Side Bar"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"pip",
+				"Package Control: Install Package"
+			],
+			[
+				"bookm",
+				"Bookmarks: Clear All"
+			],
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"ToDo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"subl",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"sideb",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"tabs",
+				"View: Toggle Tabs"
+			],
+			[
+				"status",
+				"View: Toggle Status Bar"
+			],
+			[
+				"Todo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TODO",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"SIDE",
+				"View: Toggle Side Bar"
+			],
+			[
+				"men",
+				"View: Toggle Menu"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"me	",
+				"View: Toggle Menu"
+			],
+			[
+				"mn",
+				"Snippet: main()"
+			],
+			[
+				"me",
+				"View: Toggle Menu"
+			],
+			[
+				"tab",
+				"View: Toggle Tabs"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"meu",
+				"View: Toggle Menu"
+			],
+			[
+				"Todo ",
+				"TodoReview: Open Files"
+			],
+			[
+				"debug",
+				"SublimeLinter: Enable Debug Mode"
+			],
+			[
+				"LinterDis",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"SublimeLinter",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"Todor",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TodoR",
+				"TodoReview: Project Files"
+			],
+			[
+				"TodoReview",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"Tdoor",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"git commit",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"todore",
+				"TodoReview: Project Files"
+			],
+			[
+				"To",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"codein",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"TO",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"git",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Gui"
+			],
+			[
+				"git tag",
+				"Git: Show Tags"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"Tod",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"todor",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TOd",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"todo",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TOD",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TODOR",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"TODORe",
+				"TodoReview: Project Files"
+			],
+			[
+				"TODORev",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"glsl",
+				"Set Syntax: OpenGL SL"
+			]
+		],
+		"width": 527.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"print \"$ProjectDir\"",
+			"echo \"$ProjectDir\"",
+			"$ProjectDir",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/stelarcf/Projects/veliwan/code",
+		"/home/stelarcf/Projects/veliwan/code/core",
+		"/home/stelarcf/Projects/veliwan/code/core/core",
+		"/home/stelarcf/Projects/veliwan/code/core/io",
+		"/home/stelarcf/Projects/veliwan/code/core/render"
+	],
+	"file_history":
+	[
+		"/home/stelarcf/inheritance.cpp",
+		"/home/stelarcf/Projects/veliwan/code/core/render/RenderCore.cpp",
+		"/home/stelarcf/Projects/veliwan/code/code/render/RenderCamera.h",
+		"/home/stelarcf/Projects/veliwan/code/code/render/RTSCamera.h",
+		"/home/stelarcf/Projects/veliwan/code/code/render/RTSCamera.cpp",
+		"/home/stelarcf/Projects/veliwan/code/code/core/GameEvent.h",
+		"/home/stelarcf/Projects/veliwan/code/code/core/GameLogic.h",
+		"/home/stelarcf/Projects/veliwan/code/code/render/RenderFactory.h",
+		"/home/stelarcf/Projects/veliwan/code/assets/bin/veliwan",
+		"/home/stelarcf/Projects/veliwan/code/code/render/RenderFactory.cpp",
+		"/home/stelarcf/Projects/veliwan/code/code/core/Logger.h",
+		"/home/stelarcf/Projects/veliwan/code/code/core/GameCore.cpp",
+		"/home/stelarcf/Projects/veliwan/code/code/core/GameCore.h",
+		"/home/stelarcf/Projects/veliwan/code/code/render/RenderCore.h",
+		"/home/stelarcf/Projects/veliwan/code/code/render/RenderCore.cpp",
+		"/home/stelarcf/Projects/veliwan/code/render/RenderFactory.cpp",
+		"/home/stelarcf/Projects/veliwan/assets/bin/veliwan",
+		"/home/stelarcf/Projects/veliwan/makefile",
+		"/home/stelarcf/Projects/veliwan/veliwan",
+		"/home/stelarcf/Projects/veliwan/code/core/Logger.h",
+		"/home/stelarcf/.steam/steam/steamapps/common/MountBlade Warband/CommonRes/khergit_lady_dress.brf",
+		"/home/stelarcf/Projects/veliwan/build/RenderCamera.h",
+		"/home/stelarcf/Projects/veliwan/build/RTSCamera.h",
+		"/home/stelarcf/Projects/veliwan/code/GameLogic.h",
+		"/home/stelarcf/Projects/veliwan/code/GameCore.cpp",
+		"/home/stelarcf/Projects/veliwan/code/GameObject.cpp",
+		"/home/stelarcf/Projects/veliwan/code/GameObject.h",
+		"/home/stelarcf/Projects/veliwan/code/GameCore.h",
+		"/home/stelarcf/Projects/veliwan/code/GameEvent.h",
+		"/opt/dwarffortress/readme.txt",
+		"/opt/dwarffortress/command line.txt",
+		"/home/stelarcf/DnD/party.txt",
+		"/home/stelarcf/Projects/veliwan/code/render/RTSCamera.h",
+		"/home/stelarcf/Projects/veliwan/code/render/RenderCore.h",
+		"/home/stelarcf/Projects/veliwan/code/render/RenderCamera.h",
+		"/home/stelarcf/Projects/veliwan/code/render/RenderObject.h",
+		"/home/stelarcf/Projects/veliwan/code/render/RenderObject.cpp",
+		"/home/stelarcf/Projects/veliwan/code/io/IOCore.h",
+		"/home/stelarcf/Projects/veliwan/code/render/RTSCamera.cpp",
+		"/home/stelarcf/Projects/veliwan/code/main.cpp",
+		"/home/stelarcf/Projects/veliwan/code/render/RenderGroup.cpp",
+		"/home/stelarcf/Projects/veliwan/assets/bin/render.ini",
+		"/home/stelarcf/Projects/veliwan/code/render/RenderCore.cpp",
+		"/home/stelarcf/Projects/veliwan/code/external/vmath.h",
+		"/home/stelarcf/.paradoxinteractive/Europa Universalis IV/mod/europaorientalisromaniauniversalis/map/default.map",
+		"/home/stelarcf/Downloads/glm/glm/common.hpp",
+		"/home/stelarcf/Projects/veliwan/code/render/GhostCamera.cpp",
+		"/home/stelarcf/Projects/veliwan/build/RenderCore.h",
+		"/home/stelarcf/Projects/veliwan/code/io/IOListener.h",
+		"/home/stelarcf/Projects/veliwan/code/render/GhostCamera.h",
+		"/home/stelarcf/all",
+		"/home/stelarcf/Projects/veliwan/code/render/RenderGroup.h",
+		"/home/stelarcf/Projects/veliwan/GUIDELINES",
+		"/home/stelarcf/Projects/veliwan/shaders/default_draw/main.vert",
+		"/home/stelarcf/Projects/veliwan/code/io/IOCore.cpp",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderCore.cpp",
+		"/home/stelarcf/Projects/familiaris/makefile",
+		"/home/stelarcf/.config/redshift.conf",
+		"/home/stelarcf/Scripts/stream.sh",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderInit.cpp",
+		"/home/stelarcf/Projects/familiaris/shaders/default_draw/main.vert",
+		"/home/stelarcf/Projects/familiaris/shaders/highlight_draw/highlight.prog",
+		"/home/stelarcf/Projects/familiaris/shaders/highlight_draw/highlight.vert",
+		"/home/stelarcf/Projects/familiaris/shaders/blur/blur2.frag",
+		"/home/stelarcf/Projects/familiaris/code/external/vmath.h",
+		"/home/stelarcf/Projects/familiaris/shaders/screencopy/screencopy.frag",
+		"/home/stelarcf/Projects/familiaris/shaders/highlight_draw/highlight.frag",
+		"/home/stelarcf/Projects/familiaris/shaders/blur/blur1.frag",
+		"/home/stelarcf/Projects/familiaris/shaders/default_draw/main.frag",
+		"/home/stelarcf/Projects/familiaris/shaders/blur/blur1.prog",
+		"/home/stelarcf/Projects/familiaris/.hgignore",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderFactory.h",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderFactory.cpp",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderObject.cpp",
+		"/home/stelarcf/Projects/familiaris/assets/bin/render.ini",
+		"/home/stelarcf/Projects/familiaris/shaders/screencomposite/screencomposite.frag",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderCore.h",
+		"/home/stelarcf/Projects/familiaris/shaders/screencomposite/screencomposite.prog",
+		"/home/stelarcf/Projects/familiaris/clocx",
+		"/home/stelarcf/Projects/familiaris/code/main.cpp",
+		"/home/stelarcf/Projects/familiaris/shaders/screencomposite/screencopy.prog",
+		"/home/stelarcf/Projects/familiaris/shaders/screencopy/screencopy.prog",
+		"/home/stelarcf/Projects/familiaris/shaders/default_draw/mainprog.prog",
+		"/home/stelarcf/Projects/familiaris/assets/bin/mainprog.prog",
+		"/home/stelarcf/Projects/familiaris/shaders/blur/blur2.prog",
+		"/home/stelarcf/Projects/familiaris/shaders/screencomposite/screencopy.frag",
+		"/home/stelarcf/Projects/familiaris/shaders/screenspace.vert",
+		"/home/stelarcf/Projects/familiaris/code/sdlgl.h",
+		"/home/stelarcf/Projects/familiaris/shaders/blur/blur.vert",
+		"/home/stelarcf/Projects/familiaris/shaders/blur/blur.prog",
+		"/home/stelarcf/Projects/familiaris/shaders/blur/blur.frag",
+		"/home/stelarcf/Projects/familiaris/shaders/default_draw/render.ini",
+		"/home/stelarcf/Projects/familiaris/code/io/IOCore.cpp",
+		"/home/stelarcf/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/stelarcf/.config/sublime-text-3/Packages/GL Shader Validator/GLShaderValidator.sublime-settings",
+		"/home/stelarcf/Projects/familiaris/familiaris.sublime-project",
+		"/home/stelarcf/Projects/familiaris/assets/models_3d/plane.mtl",
+		"/home/stelarcf/Projects/familiaris/assets/bin/familiaris",
+		"/home/stelarcf/Projects/familiaris/familiaris",
+		"/home/stelarcf/Projects/familiaris/publish/release/_famexec",
+		"/home/stelarcf/Projects/familiaris/publish/debug/_famexec",
+		"/home/stelarcf/Projects/familiaris/publish/vertex.glsl",
+		"/home/stelarcf/Projects/familiaris/publish/untitled.mtl",
+		"/home/stelarcf/Projects/familiaris/publish/render.ini",
+		"/home/stelarcf/Projects/familiaris/publish/plane.mtl",
+		"/home/stelarcf/Projects/familiaris/publish/mainprog.prog",
+		"/home/stelarcf/Projects/familiaris/publish/fragment.glsl",
+		"/home/stelarcf/Projects/familiaris/publish/familiaris",
+		"/home/stelarcf/Projects/familiaris/publish/cube.mtl",
+		"/home/stelarcf/Projects/familiaris/publish/castle.mtl",
+		"/home/stelarcf/Projects/familiaris/publish/Tiger_I.mtl",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderObject.h",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderMaterial.h",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderGroup.h",
+		"/home/stelarcf/Projects/familiaris/code/render/RenderGroup.cpp",
+		"/home/stelarcf/Projects/familiaris/code/io/IOListener.h",
+		"/home/stelarcf/Projects/familiaris/code/io/IOCore.h",
+		"/home/stelarcf/Projects/familiaris/code/external/lodepng.h",
+		"/home/stelarcf/Projects/familiaris/code/external/lodepng.cpp",
+		"/home/stelarcf/Projects/familiaris/assets/models_3d/untitled.mtl",
+		"/home/stelarcf/Projects/familiaris/assets/models_3d/cube.mtl",
+		"/home/stelarcf/Projects/familiaris/assets/models_3d/castle.mtl",
+		"/home/stelarcf/Projects/familiaris/assets/models_3d/Tiger_I.mtl",
+		"/home/stelarcf/Projects/familiaris/assets/bin/vertex.glsl",
+		"/home/stelarcf/Projects/familiaris/assets/bin/fragment.glsl",
+		"/home/stelarcf/Projects/familiaris/kludoxygencfg",
+		"/home/stelarcf/Projects/familiaris/GUIDELINES",
+		"/home/stelarcf/Projects/familiaris/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 100.0,
+		"where_history":
+		[
+			"~/Projects/klu, *",
+			"~/Projects/klu/*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"int",
+			"filename",
+			"printf",
+			"LOG_NOTICE",
+			"printf",
+			"log",
+			"LOG_CRITICAL",
+			"LOG_NOTIFY",
+			"printf",
+			"LOG_NULL",
+			"Debug",
+			"LOG_NULL",
+			"Info",
+			"LOG_NULL",
+			"Notification",
+			"LOG_NULL",
+			"Warning",
+			"LOG_NULL",
+			"Warning",
+			"LOG_NULL",
+			"Error",
+			"LOG_NULL",
+			"Critical",
+			"LOG_NULL",
+			"G",
+			"logarray__",
+			"logarr",
+			",",
+			" =",
+			"	",
+			"Debug",
+			"Information",
+			"Notification",
+			"Warnings",
+			"Errors",
+			"Critical",
+			"Alerts",
+			"root_dir",
+			"build",
+			"registeredEvents",
+			"//",
+			"s",
+			"-lSDL2_ttf",
+			"lcurses",
+			"frustum",
+			"GLuint",
+			" ",
+			"--std=gnu++11",
+			"1.0f",
+			"0.0f",
+			"true",
+			"Linux",
+			"lincc",
+			"clang++",
+			"Counter",
+			"inputter",
+			"Counter",
+			"inputter",
+			"0",
+			"SENSITIVITY",
+			"clock()",
+			"[1]",
+			"[0]",
+			"float ",
+			", ",
+			"MOUSEBUTTONDOWN",
+			"virtual",
+			"true",
+			"oneh",
+			"false",
+			"resy",
+			"(float)",
+			"ot_color",
+			"ttc",
+			"thing",
+			"false",
+			"true",
+			"hc_loc",
+			"xrot",
+			"ff",
+			" && (it->ro->highlighted == true)",
+			" && it->ro->highlighted",
+			"highlight",
+			"true",
+			"fb1",
+			"fb4",
+			"RenderCore",
+			"fb1",
+			"fb2",
+			"framebuffer",
+			"false",
+			"mipmap",
+			"Color",
+			"RTScene",
+			"vTexCoord",
+			"true",
+			"310",
+			"300",
+			"310",
+			"300",
+			"130",
+			"300",
+			"130",
+			"400",
+			"430",
+			"400",
+			"130",
+			"400",
+			"430",
+			"location",
+			"render",
+			"Well",
+			"checkError();",
+			"fb1_col",
+			"frameBuffer",
+			"Well",
+			"Well:",
+			"v.back",
+			"millis",
+			"milliseconds",
+			");\n",
+			"1000",
+			"\"",
+			"o",
+			"		",
+			"text\n		\"\"\"\n",
+			"text\n		\"\"\"",
+			"\n		"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"LOG_NOTIFY",
+			"v.back()",
+			"micros",
+			"stats_col",
+			"stats_row",
+			"b",
+			"todo!>",
+			"-xrot",
+			"xrot * M_PI / 180",
+			"xrot / 90 * M_PI",
+			"xrot / 360 * M_PI",
+			"xrot / 180 * M_PI",
+			"xrot",
+			"10",
+			"1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "core/core/GameLogic.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								35,
+								35
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "core/render/GhostCamera.cpp",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3982,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/stelarcf/Probleme Info/derdelus/7-derdelus.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 309330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 21334.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/stelarcf/Probleme Info/derdelus/6-derdelus.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297740,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								297740,
+								297740
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 20133.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/stelarcf/Probleme Info/derdelus/8-derdelus.in",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 350298,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11921,
+								11921
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "core/render/RenderFactory.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "core/core/LogicFunction.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"auto_name": "LogicFunction.h",
+							"syntax": "Packages/C++/C++.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "core/core/GameCore.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								704,
+								704
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 318.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "veliwan.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"rendercore.cpp",
+				"core/render/RenderCore.cpp"
+			],
+			[
+				"rf.cpp",
+				"code/render/RenderFactory.cpp"
+			],
+			[
+				"rc.h",
+				"code/render/RenderCore.h"
+			],
+			[
+				"rc.cpp",
+				"code/render/RenderCore.cpp"
+			],
+			[
+				"rendercore",
+				"code/render/RenderCore.h"
+			],
+			[
+				"rf",
+				"code/render/RenderFactory.h"
+			],
+			[
+				"render",
+				"code/render/RenderFactory.cpp"
+			],
+			[
+				"vel",
+				"assets/bin/veliwan"
+			],
+			[
+				"veli",
+				"assets/bin/veliwan"
+			],
+			[
+				"veliwan",
+				"veliwan"
+			],
+			[
+				"logger",
+				"code/core/Logger.h"
+			],
+			[
+				"makefi",
+				"makefile"
+			],
+			[
+				"renderfactory",
+				"code/render/RenderFactory.cpp"
+			],
+			[
+				"makef",
+				"makefile"
+			],
+			[
+				"ev",
+				"code/core/GameEvent.h"
+			],
+			[
+				"gamecore",
+				"code/core/GameCore.cpp"
+			],
+			[
+				"rendercamera",
+				"build/RenderCamera.h"
+			],
+			[
+				"rtsc",
+				"code/render/RTSCamera.h"
+			],
+			[
+				"rtscamera",
+				"code/render/RTSCamera.cpp"
+			],
+			[
+				"gamelogic",
+				"code/core/GameLogic.h"
+			],
+			[
+				"game",
+				"code/core/GameCore.h"
+			],
+			[
+				"rtsca",
+				"code/render/RTSCamera.h"
+			],
+			[
+				"camera",
+				"code/render/RenderCamera.h"
+			],
+			[
+				"rts",
+				"code/render/RTSCamera.cpp"
+			],
+			[
+				"rendergrou",
+				"code/render/RenderGroup.cpp"
+			],
+			[
+				"re",
+				"assets/bin/render.ini"
+			],
+			[
+				"rendergroup",
+				"code/render/RenderGroup.cpp"
+			],
+			[
+				"renderobject.cpp",
+				"code/render/RenderObject.cpp"
+			],
+			[
+				"renderobject",
+				"code/render/RenderObject.h"
+			],
+			[
+				"make",
+				"makefile"
+			],
+			[
+				"main",
+				"code/main.cpp"
+			],
+			[
+				"iocore",
+				"code/io/IOCore.h"
+			],
+			[
+				"rendercore.h",
+				"code/render/RenderCore.h"
+			],
+			[
+				"main.cpp",
+				"code/main.cpp"
+			],
+			[
+				"main.cp",
+				"code/main.cpp"
+			],
+			[
+				"vmath",
+				"code/external/vmath.h"
+			],
+			[
+				"rendercore.c",
+				"code/render/RenderCore.cpp"
+			],
+			[
+				"rc.c",
+				"code/render/RenderCore.cpp"
+			],
+			[
+				"ghost",
+				"code/render/GhostCamera.cpp"
+			],
+			[
+				"makefile",
+				"makefile"
+			],
+			[
+				"rendero",
+				"code/render/RenderObject.h"
+			],
+			[
+				"gc",
+				"code/render/GhostCamera.cpp"
+			],
+			[
+				"iol",
+				"code/io/IOListener.h"
+			],
+			[
+				"rec.c",
+				"code/render/RenderCore.cpp"
+			],
+			[
+				"high",
+				"shaders/highlight_draw/highlight.vert"
+			],
+			[
+				".frag",
+				"shaders/screencomposite/screencomposite.frag"
+			],
+			[
+				"rc",
+				"code/render/RenderCore.cpp"
+			],
+			[
+				"blur",
+				"shaders/blur/blur2.frag"
+			],
+			[
+				"composi",
+				"shaders/screencomposite/screencomposite.prog"
+			],
+			[
+				"screencopy",
+				"shaders/screencopy/screencopy.frag"
+			],
+			[
+				"scree",
+				"shaders/screencopy/screencopy.prog"
+			],
+			[
+				".prog",
+				"shaders/blur/blur1.prog"
+			],
+			[
+				"main.frag",
+				"shaders/default_draw/main.frag"
+			],
+			[
+				"blur2.",
+				"shaders/blur/blur2.frag"
+			],
+			[
+				"blur1",
+				"shaders/blur/blur1.frag"
+			],
+			[
+				"prog",
+				"shaders/blur/blur1.prog"
+			],
+			[
+				"ini",
+				"shaders/default_draw/render.ini"
+			],
+			[
+				"main.",
+				"shaders/default_draw/main.vert"
+			],
+			[
+				"main.vert",
+				"shaders/default_draw/main.vert"
+			],
+			[
+				"ma",
+				"makefile"
+			],
+			[
+				"fmailiar",
+				"assets/bin/familiaris"
+			],
+			[
+				"familiaris",
+				"familiaris"
+			],
+			[
+				"familiar",
+				"familiaris"
+			],
+			[
+				"famili",
+				"assets/bin/familiaris"
+			],
+			[
+				"fami",
+				"familiaris"
+			],
+			[
+				"frag",
+				"assets/bin/fragment.glsl"
+			],
+			[
+				"",
+				".hgignore"
+			],
+			[
+				".mtl",
+				"plane.mtl"
+			],
+			[
+				"rf.h",
+				"RenderFactory.h"
+			],
+			[
+				"renderf",
+				"RenderFactory.cpp"
+			],
+			[
+				"verte",
+				"vertex.glsl"
+			],
+			[
+				"render.ini",
+				"render.ini"
+			],
+			[
+				"plane",
+				"plane.mtl"
+			],
+			[
+				"fragm",
+				"fragment.glsl"
+			],
+			[
+				"reno",
+				"RenderObject.cpp"
+			],
+			[
+				"rendgr",
+				"RenderGroup.cpp"
+			],
+			[
+				"renderc",
+				"RenderCore.cpp"
+			],
+			[
+				"fra",
+				"fragment.glsl"
+			],
+			[
+				"ver",
+				"vertex.glsl"
+			],
+			[
+				"ro.c",
+				"RenderObject.cpp"
+			],
+			[
+				"cube",
+				"cube.mtl"
+			],
+			[
+				"rg.h",
+				"RenderGroup.h"
+			],
+			[
+				"rcc",
+				"RenderCore.cpp"
+			],
+			[
+				"ti",
+				"Tiger_I.mtl"
+			],
+			[
+				"rf.",
+				"RenderFactory.cpp"
+			],
+			[
+				"rf.c",
+				"RenderFactory.cpp"
+			],
+			[
+				"rg.c",
+				"RenderGroup.cpp"
+			],
+			[
+				".ini",
+				"render.ini"
+			],
+			[
+				"roc",
+				"RenderObject.cpp"
+			],
+			[
+				"rg",
+				"RenderGroup.cpp"
+			],
+			[
+				"ro",
+				"RenderObject.h"
+			],
+			[
+				"rm",
+				"RenderMaterial.h"
+			],
+			[
+				"rendc.cpp",
+				"RenderCore.cpp"
+			],
+			[
+				"renderobj",
+				"RenderObject.h"
+			],
+			[
+				"rendcc",
+				"RenderCore.cpp"
+			],
+			[
+				"rendergr",
+				"RenderGroup.h"
+			],
+			[
+				"rendgh",
+				"RenderGroup.h"
+			],
+			[
+				"rfh",
+				"RenderFactory.h"
+			],
+			[
+				"renderob",
+				"RenderObject.h"
+			],
+			[
+				"refh",
+				"RenderFactory.h"
+			],
+			[
+				"ref",
+				"RenderFactory.cpp"
+			],
+			[
+				"renderobjec",
+				"RenderObject.h"
+			],
+			[
+				"renderfa",
+				"RenderFactory.h"
+			],
+			[
+				"ren",
+				"RenderFactory.cpp"
+			],
+			[
+				"rmater",
+				"RenderMaterial.h"
+			],
+			[
+				"text",
+				"RenderTexture.h"
+			],
+			[
+				"rendegr",
+				"RenderGroup.h"
+			],
+			[
+				"flat",
+				"flat.mod"
+			],
+			[
+				"pc.h",
+				"PhysicsCore.h"
+			],
+			[
+				"phys",
+				"PhysicsCore.cpp"
+			],
+			[
+				"phc.c",
+				"PhysicsCore.cpp"
+			],
+			[
+				"pcl.c",
+				"PhysicsCollisions.cpp"
+			],
+			[
+				"lodepn.c",
+				"lodepng.cpp"
+			],
+			[
+				"pco",
+				"PhysicsCollisions.cpp"
+			],
+			[
+				"pc",
+				"PhysicsCore.h"
+			],
+			[
+				"pch",
+				"PhysicsCore.h"
+			],
+			[
+				"pcr",
+				"PhysicsCore.h"
+			],
+			[
+				"cloc",
+				"clocx"
+			],
+			[
+				"clocx",
+				"clocx"
+			],
+			[
+				".git",
+				".gitignore"
+			],
+			[
+				"phy",
+				"PhysicsCore.cpp"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 146.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

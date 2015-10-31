@@ -1,0 +1,6 @@
+# This is the file that tells cloc what to exclude (things that are not part of the project but are statically linked)
+# Run it with cloc . --exclude-list-file clocx
+clocx
+core/external/lodepng.h
+core/external/lodepng.cpp
+core/external/vmath.h

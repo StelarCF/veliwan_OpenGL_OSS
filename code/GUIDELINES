@@ -1,0 +1,12 @@
+======================
+PROGRAMMING GUIDELINES
+======================
+
+* Opening braces are to be on the same line UNLESS the object is a struct that contains multiple submember structural types (enums, structs, unions)
+
+=======================
+ARCHITECTURE GUIDELINES
+=======================
+
+* The game must be separated into multiple cores, each having one of the game (e.g. physics)
+* The cores communicate with each other

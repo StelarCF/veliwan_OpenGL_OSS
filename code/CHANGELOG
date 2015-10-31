@@ -1,0 +1,64 @@
+CHANGELOG
+
+Current:
+v0.2.1dts (stable release of v0.2)
+
+Planned:
+
+Roadmap (engine):
+v0.3 - wheels, spheres, actually using the collision mesh for collisions, rotational velocity, quaternion rotation, instantiable objects
+v0.4 - GUI, friction, models from non-custom files, LUA scripting, configurable global variables
+v0.5 - physics constraints(Fixed, Hinge, Ball), multi-shader rendering, basic sound system
+v0.6 - shader improvements (Anti-Aliasing, Anisotropic filtering, Shadows/Shading), player-physics constraints (car control), new camera (rotating around object), more advanced sound
+v0.7 - maps (tracks), more shader improvements (to be determined), main menu, better foldering/files
+v0.8 - objectives (race, battle tag -- scriptable), map editor, "career" mode, HUD
+v0.9 - multiplayer
+v0.10 - release candidate 1 for engine
+v0.11 - release candidate 2 for engine (if necessary)
+v1.0 - game release engine
+
+Roadmap (game):
+v0.4 - a few car models, some props, some textures
+v0.5 - more car models, environment models, a couple of songs
+v0.7 - more car models, environment models, some more songs, a couple of tracks
+v0.8 - more tracks, more car models, most of the songs, tracks for battle tag
+v0.9 - most of the tracks, most of the cars, all of the songs, most of the tracks
+v0.10, v0.11 - finish up all tracks
+v1.0 - Everything finished
+
+Roadmap (debugger):
+v0.3 - debugging tool written in ncurses reaches stable
+v0.6 - debugger written to use lua for greater customizability
+v1.0 - debugger not in production, ok?
+
+Older:
+v0.2dtex
+========
+Features
++ Added on-detect collisions
+--------
+Known Bugs
+- If cube doesn't fall straight down, it will be teleported out of the floor (you can still theoretically find it). Fix is planned for v0.3
+- Once the cube "settles" on the floor it starts jittering. Fix is planned for v0.3.
+
+v0.1.2dtqf
+==========
+Bugfixes
++ Fixed OpenGL 3.0 shaders, made them work on other systems
+
+v0.1.1dtqf
+==========
+Bugfixes
++ Stopped crashing on other systems by adding OpenGL 3.0 shader compatibility
+----------
+Other
++ Changed display resolution
+
+v0.1dts
+=======
+Features
++ 3D Renderer
++ Loading OpenGL Shaders from files
++ IO
++ Loading objects, models and images from files
++ Gravitational acceleration
